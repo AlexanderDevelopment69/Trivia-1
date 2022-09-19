@@ -2,8 +2,7 @@ Trivia, Cuestionario sobre preguntas de gestion de memoria
 
 USO
 -----
-Leer cada pregunta y marca una respuest de a - d 
-cada pregunta es analizada al instante con una respuesta objetiva. Al final de la trivia se emite un reporte de la solucion de la trivia. 
+Leer cada pregunta y marca una respuest de |a - d|, cada pregunta es analizada al instante con una respuesta objetiva. Al final de la trivia se emite un reporte de la solucion de la trivia. 
 
 
 
